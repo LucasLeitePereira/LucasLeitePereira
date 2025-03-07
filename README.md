@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&background=0000000D&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas!)](https://git.io/typing-svg)
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
